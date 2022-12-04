@@ -39,7 +39,7 @@
 
 # 기술 스텍
 
-<img src="https://img.shields.io/badge/-React-blue"><img src="https://img.shields.io/badge/-JavaScript-yellow"><img src="https://img.shields.io/badge/-Sass-ff69b4"><img src="https://img.shields.io/badge/-HTML-orange"><img src="https://img.shields.io/badge/-ESLint-blueviolet"><img src="https://img.shields.io/badge/-Prettier-rainbow">
+<img src="https://img.shields.io/badge/-React-blue">  <img src="https://img.shields.io/badge/-JavaScript-yellow"> <img src="https://img.shields.io/badge/-Sass-ff69b4"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-ESLint-blueviolet"> <img src="https://img.shields.io/badge/-Prettier-rainbow">
 
 
 
